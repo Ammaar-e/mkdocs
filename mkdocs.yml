@@ -24,7 +24,7 @@ theme:
         icon: material/toggle-switch
         name: Switch to light mode    
       primary: deep orange
-      accent: grey
+      accent: deep orange
 
 extra:
   alternate:
