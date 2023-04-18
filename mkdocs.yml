@@ -42,7 +42,6 @@ extra:
       link: https://github.com/ammaar-e
 
 markdown_extensions:
-  - attr_list
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
