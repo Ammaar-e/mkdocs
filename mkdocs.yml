@@ -39,11 +39,7 @@ extra:
       lang: fr
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
-    - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
-    - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
+      link: https://github.com/ammaar-e
 
 markdown_extensions:
   - pymdownx.highlight:
