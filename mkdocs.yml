@@ -32,10 +32,10 @@ extra:
       link: /en/
       lang: en
     - name: Arabic
-      link: /en/ 
+      link: /ar/ 
       lang: ar
     - name: French
-      link: /en/
+      link: /fr/
       lang: fr
   social:
     - icon: fontawesome/brands/github-alt
