@@ -27,6 +27,16 @@ theme:
       accent: lime
 
 extra:
+  alternate:
+    - name: English
+      link: /en/
+      lang: en
+    - name: Arabic
+      link: /en/ 
+      lang: ar
+    - name: French
+      link: /en/
+      lang: fr
   social:
     - icon: fontawesome/brands/github-alt
       link: https://github.com/james-willett
