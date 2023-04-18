@@ -1,4 +1,4 @@
-site_name: My Docs
+site_name: HomeLab&Cloud
 theme:
   name: material
   features:
@@ -12,6 +12,8 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+  icon:
+    repo: fontawesome/brands/github
   language: en
   palette:
     - scheme: default
@@ -58,6 +60,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      
+repo_url: https://github.com/Ammaar-e/mkdocs
 
 copyright: |
   &copy; 2023 <a href="https://github.com/Ammaar-e"  target="_blank" rel="noopener">Ammaar Bedasso</a>
