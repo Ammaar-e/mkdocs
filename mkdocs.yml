@@ -2,6 +2,7 @@ site_name: My Docs
 theme:
   name: material
   features:
+    - navigation.footer
     - navigation.tabs
     - navigation.sections
     - toc.integrate
@@ -12,6 +13,8 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - scheme: default
       toggle:
@@ -42,6 +45,7 @@ extra:
       link: https://github.com/ammaar-e
 
 markdown_extensions:
+  - attr_list
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
@@ -60,3 +64,9 @@ markdown_extensions:
 
 copyright: |
   &copy; 2023 <a href="https://github.com/Ammaar-e"  target="_blank" rel="noopener">Ammaar Bedasso</a>
+
+repo_url: https://github.com/Ammaar-e/mkdocs
+theme:
+  icon:
+    repo: fontawesome/brands/git-alt 
+    
