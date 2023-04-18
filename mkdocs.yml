@@ -18,7 +18,8 @@ theme:
         icon: material/weather-night
         name: Switch to dark mode
       primary: deep orange
-      accent: deep orange  
+      accent: deep orange
+    - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode    
