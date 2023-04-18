@@ -15,16 +15,16 @@ theme:
   palette:
     - scheme: default
       toggle:
-        icon: material/weather-night
+        icon: material/weather-sunny
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: deep orange
+      accent: deep orange 
     - scheme: slate 
       toggle:
-        icon: material/weather-sunny
+        icon: material/weather-night
         name: Switch to light mode    
-      primary: deep orange
-      accent: deep orange
+      primary: teal
+      accent: purple
 
 extra:
   alternate:
