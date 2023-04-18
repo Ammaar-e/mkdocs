@@ -1,10 +1,10 @@
-site_name: HomeLab & Cloud
+site_name: My Docs
 theme:
   name: material
   features:
-    - navigation.footer
     - navigation.tabs
     - navigation.sections
+    - navigation.footer
     - toc.integrate
     - navigation.top
     - search.suggest
@@ -13,8 +13,6 @@ theme:
     - content.code.annotation
     - content.code.copy
   language: en
-  icon:
-    repo: fontawesome/brands/github
   palette:
     - scheme: default
       toggle:
@@ -34,6 +32,9 @@ extra:
     - name: English
       link: /en/
       lang: en
+    - name: Arabic
+      link: /ar/ 
+      lang: ar
     - name: French
       link: /fr/
       lang: fr
@@ -60,9 +61,3 @@ markdown_extensions:
 
 copyright: |
   &copy; 2023 <a href="https://github.com/Ammaar-e"  target="_blank" rel="noopener">Ammaar Bedasso</a>
-
-repo_url: https://github.com/Ammaar-e/mkdocs
-theme:
-  icon:
-    repo: fontawesome/brands/git-alt 
-    
