@@ -1,4 +1,4 @@
-# Admonitions
+# Features
 
 ## Examples of Admonitions
  
@@ -221,3 +221,53 @@
     Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
     nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
     massa, nec semper lorem quam in massa.
+
+## Buttons
+
+[Subscribe to our newsletter](#){ .md-button }
+
+## Primary Buttons
+
+[Subscribe to our newsletter](#){ .md-button .md-button--primary }
+
+## Icon Buttons
+
+[Send :fontawesome-solid-paper-plane:](#){ .md-button }
+
+## Code Block
+
+``` py
+import tensorflow as tf
+```
+
+## Code Block with Title
+
+``` py title="bubble_sort.py"
+def bubble_sort(items):
+    for i in range(len(items)):
+        for j in range(len(items) - 1 - i):
+            if items[j] > items[j + 1]:
+                items[j], items[j + 1] = items[j + 1], items[j]
+```
+
+## Code Block with Line Numbers
+
+``` py linenums="1"
+def bubble_sort(items):
+    for i in range(len(items)):
+        for j in range(len(items) - 1 - i):
+            if items[j] > items[j + 1]:
+                items[j], items[j + 1] = items[j + 1], items[j]
+```
+
+## Code Block with Highlighted Lines
+
+``` py hl_lines="2 3"
+def bubble_sort(items):
+    for i in range(len(items)):
+        for j in range(len(items) - 1 - i):
+            if items[j] > items[j + 1]:
+                items[j], items[j + 1] = items[j + 1], items[j]
+```
+
+## Continuing
