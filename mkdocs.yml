@@ -4,6 +4,8 @@ theme:
   features:
     - navigation.tabs
     - navigation.sections
+    - toc.integrate
+    - navigation.top
     - navigation.footer
     - toc.integrate
     - navigation.top
@@ -14,6 +16,8 @@ theme:
     - content.code.copy
   icon:
     repo: fontawesome/brands/github
+    admonition:
+      warning: octicons/alert-fill-16
   language: en
   palette:
     - scheme: default
