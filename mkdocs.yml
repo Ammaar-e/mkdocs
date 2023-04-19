@@ -17,7 +17,7 @@ theme:
   icon:
     repo: fontawesome/brands/github
     admonition:
-      warning: octicons/alert-fill-16
+      warning : octicons/alert-fill-16
   language: en
   palette:
     - scheme: default
