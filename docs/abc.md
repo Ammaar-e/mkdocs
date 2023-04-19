@@ -5,8 +5,9 @@ Lets Install python
 
  ### linux
  
- !!! warning 
- Make sure to install pythonn
+ !!! warning
+ 
+     Make sure to install python or else it will fail
  
  
  ### windows
