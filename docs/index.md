@@ -2,7 +2,7 @@
 
 For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Icons and Emojs dumdumb tasneem
+## Icons and Emojs
 
 :smile: 
 
