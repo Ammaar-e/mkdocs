@@ -36,7 +36,7 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to light mode
-      primary: deep orage
+      primary: deep orange
       accent: blue
     - scheme: default
       toggle:
