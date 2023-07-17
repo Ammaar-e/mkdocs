@@ -3,7 +3,7 @@ theme:
   name: material
   features:
     - navigation.tabs
-    - navigation.sections
+    
     - toc.follow
     - navigation.top
     - navigation.footer
