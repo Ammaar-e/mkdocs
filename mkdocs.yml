@@ -44,6 +44,9 @@ theme:
         name: Switch to dark mode    
       primary: blue
       accent: deep orange
+  font:
+    text: Montserrat
+    Code: Roboto Mono
 
 extra:
   alternate:
