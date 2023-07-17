@@ -54,10 +54,10 @@ extra:
       link: /mkdocs/
       lang: en
     - name: Arabic
-      link: /other/lang/ar/ 
+      link: /other/lang/ar/arabic.md
       lang: ar
     - name: French
-      link: /other/lang/fr/
+      link: /other/lang/fr/french.md
       lang: fr
   social:
     - icon: fontawesome/brands/github-alt
