@@ -1,4 +1,6 @@
-## Cloudflare Tunnel
+# Cloudflare Tunnels
+
+## Cloudflare Tunnels
 ##### Protect your web servers from direct attack
 
 From the moment an application is deployed, developers and IT spend time locking it down — configuring ACLs, rotating IP addresses, and using clunky solutions like GRE tunnels.
