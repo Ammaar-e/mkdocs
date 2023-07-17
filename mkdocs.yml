@@ -32,7 +32,7 @@ theme:
       quote: octicons/quote-16
   language: en
   palette:
-    - scheme: default
+    - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Switch to dark mode
@@ -84,4 +84,4 @@ markdown_extensions:
 repo_url: https://github.com/Ammaar-e/mkdocs
 
 copyright: |
-  &copy; 2023 <a href="https://github.com/Ammaar-e"  target="_blank" rel="noopener">Ammaar Bedasso</a>
+  &copy; 2023 <a href="https://github.com/Ammaar-e"  target="_blank" rel="noopener">Ammaar Solutions Ltd. </a>
