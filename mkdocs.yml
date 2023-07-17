@@ -7,7 +7,7 @@ theme:
     - toc.follow
     - navigation.top
     - navigation.footer
-    - toc.integrate
+   
     - navigation.top
     - search.suggest
     - search.highlight
