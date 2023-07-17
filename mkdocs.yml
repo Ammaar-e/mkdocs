@@ -51,13 +51,13 @@ theme:
 extra:
   alternate:
     - name: English
-      link: /en/
+      link: /mkdocs/
       lang: en
     - name: Arabic
-      link: /ar/ 
+      link: /other/lang/ar/ 
       lang: ar
     - name: French
-      link: /fr/
+      link: /other/lang/fr/
       lang: fr
   social:
     - icon: fontawesome/brands/github-alt
