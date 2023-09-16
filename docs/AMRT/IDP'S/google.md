@@ -4,14 +4,15 @@ We use google as our IDP for staff and students to access Google Products. The f
 # Lets Set it up
 ### This document shows you how to set up user provisioning and single sign-on between a Microsoft Azure AD tenant and your Cloud Identity or Google Workspace account. The document assumes that you already use Microsoft Office 365 or Azure AD in your organization and want to use Azure AD for allowing users to authenticate with Google Cloud. Azure AD itself might be connected to an on-premises Active Directory and might use AD FS federation, pass-through authentication, or password hash synchronization.
 
-!!! info "Note"
-This article uses classic organizational SSO profiles to set up single sign-on. Using SAML profiles is currently incompatible with some Azure AD features, including Azure AD B2B.
-Objectives
-Set up Azure AD to automatically provision users and, optionally, groups to Cloud Identity or Google Workspace.
-Configure single sign-on to allow users to sign in to Google Cloud by using an Azure AD user account or a user that has been provisioned from Active Directory to Azure AD.
-Costs
-If you are using the free edition of Cloud Identity, setting up federation with Azure AD won't use any billable components of Google Cloud.
-Check the Azure AD pricing page for any fees that might apply to using Azure AD.
+!!! info "Note: fees"
+
+    This article uses classic organizational SSO profiles to set up single sign-on. Using SAML profiles is currently incompatible with some Azure AD features, including Azure AD B2B.
+    Objectives
+    Set up Azure AD to automatically provision users and, optionally, groups to Cloud Identity or Google Workspace.
+    Configure single sign-on to allow users to sign in to Google Cloud by using an Azure AD user account or a user that has been provisioned from Active Directory to Azure AD.
+    Costs
+    If you are using the free edition of Cloud Identity, setting up federation with Azure AD won't use any billable components of Google Cloud.
+    Check the Azure AD pricing page for any fees that might apply to using Azure AD.
 
 ## Before you begin
 Make sure you understand the differences between connecting Google Cloud to Azure AD versus directly connecting Google Cloud to Active Directory.
