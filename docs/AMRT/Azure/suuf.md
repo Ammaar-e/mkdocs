@@ -1,1 +1,0 @@
-We use Azure AD as our main system. We have 25 free licenses and can do anything the main ADMIN is ADMIn-AMRT@atsaoc.onmicrosoft.com and secondary is @Ammaar-e You can find him at sysadmin@amrt.xyz and ammaar@amrt.xyz
