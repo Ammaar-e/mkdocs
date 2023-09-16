@@ -1,5 +1,5 @@
 # Google IDP
-We use google as our IDP for staff and students to access Google Products. The following information below is how to set it up. The account connected to Google Worspace ad the admin is interservices@amrt.xyz
+We use google as our IDP for staff and students to access Google Products. The following information below is how to set it up. The account connected to Google Worspace and the admin is interservices@amrt.xyz
 
 # Lets Set it up
 ### This document shows you how to set up user provisioning and single sign-on between a Microsoft Azure AD tenant and your Cloud Identity or Google Workspace account. The document assumes that you already use Microsoft Office 365 or Azure AD in your organization and want to use Azure AD for allowing users to authenticate with Google Cloud. Azure AD itself might be connected to an on-premises Active Directory and might use AD FS federation, pass-through authentication, or password hash synchronization.
